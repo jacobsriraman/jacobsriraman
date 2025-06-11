@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @jacobsriraman
-- 👀 I’m interested in topological and deep learning applications to data science
-- 🌱 I’m currently learning topological data analysis, topological deep learning
+- 👀 I’m interested in computational topology, TDA and data science
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+-   jacob.sriraman@student.msu.edu
+-   jsriraman@mtech.edu
+-   j.b.sriraman@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
